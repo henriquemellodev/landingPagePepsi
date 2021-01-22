@@ -2,7 +2,7 @@
 
 ![20201102_224751](https://user-images.githubusercontent.com/62962707/105536030-c6b3fe00-5d00-11eb-91bc-94bcebf4559e.gif)
 
-Página interativa desenvolvida em HTML,CSS e JavaScript.
+Página interativa desenvolvida em HTML,CSS e JavaScript. Acesse o link da página em https://henriquemellodev.github.io/landingpagepepsi/ .
 
 # Tecnologias 
 
